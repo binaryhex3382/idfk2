@@ -1,0 +1,16 @@
+print("Savage Injected!")
+wait(0.1)
+print("dsc.gg/getforst")
+game:GetService("StarterGui"):SetCore("SendNotification",{
+    Title = "Savage Injected!",
+    Text = "Injected savage",
+    Icon = "rbxassetid://139675203299998",
+    Duration = 8
+})
+wait(9)
+game:GetService("StarterGui"):SetCore("SendNotification",{
+    Title = "discord.gg/getforst",
+    Text = "discord.gg/getforst",
+    Icon = "rbxassetid://139675203299998",
+    Duration = 8
+})
